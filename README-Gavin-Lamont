@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my third commit into the feature branch
+=======
+This is my fourth commit
+>>>>>>> feature-gavin
 This is my second commit into the feature branch.
 This is my first commit.
